@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19948
+            "stars": 19936
           }
         },
         {
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:29:58.198Z",
+    "last_updated": "2026-08-16T21:30:00.040Z",
     "original_repository": "eleventigers/awesome-rxjava",
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
     "enhanced_repository": "enhansome/enhansome-rxjava",
