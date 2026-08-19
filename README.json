@@ -15,7 +15,7 @@
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19934
+            "stars": 19935
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 48729466,
             "language": "Java",
-            "last_commit": "2026-08-07T01:29:40Z",
+            "last_commit": "2026-08-19T17:48:42Z",
             "owner": "JakeWharton",
             "repo": "RxRelay",
-            "stars": 2456
+            "stars": 2454
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 52854530,
             "language": "Java",
-            "last_commit": "2026-08-06T15:24:05Z",
+            "last_commit": "2026-08-19T17:19:28Z",
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
-            "stars": 623
+            "stars": 622
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:24.945Z",
+    "last_updated": "2026-08-19T21:34:48.352Z",
     "original_repository": "eleventigers/awesome-rxjava",
     "original_repository_id": 45109764,
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
