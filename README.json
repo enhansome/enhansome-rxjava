@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23095954,
             "language": "Java",
             "last_commit": "2026-08-05T12:08:09Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19935
+            "stars": 19934
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43370610,
             "language": "Java",
             "last_commit": "2022-05-11T09:47:47Z",
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10406
+            "stars": 10405
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32775739,
             "language": "Kotlin",
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9571
+            "stars": 9570
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31001422,
             "language": "Java",
             "last_commit": "2020-08-17T16:20:56Z",
             "owner": "square",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40492118,
             "language": "Java",
             "last_commit": "2025-01-06T11:09:52Z",
             "owner": "pwittchen",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16315976,
             "language": "Java",
             "last_commit": "2024-07-18T14:24:40Z",
             "owner": "mcharmas",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28071993,
             "language": "Java",
             "last_commit": "2023-05-24T00:46:03Z",
             "owner": "f2prateek",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16662619,
             "language": "Java",
             "last_commit": "2026-05-25T00:49:29Z",
             "owner": "davidmoten",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44838366,
             "language": "Java",
             "last_commit": "2016-11-11T22:05:46Z",
             "owner": "ZacSweers",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41884382,
             "language": "Java",
             "last_commit": "2023-03-04T09:14:31Z",
             "owner": "pwittchen",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47582117,
             "language": "Java",
             "last_commit": "2017-03-22T00:07:44Z",
             "owner": "pakoito",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19633602,
             "language": "Java",
             "last_commit": "2018-12-06T03:19:47Z",
             "owner": "davidmoten",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50122410,
             "language": "Java",
             "last_commit": "2016-02-20T17:32:55Z",
             "owner": "blipinsk",
@@ -189,7 +202,7 @@
       "title": "Bindings"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48729466,
             "language": "Java",
             "last_commit": "2026-08-07T01:29:40Z",
             "owner": "JakeWharton",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43031095,
             "language": "Java",
             "last_commit": "2018-08-30T23:39:05Z",
             "owner": "android10",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52854530,
             "language": "Java",
             "last_commit": "2026-08-06T15:24:05Z",
             "owner": "JakeWharton",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27285466,
             "language": "Java",
             "last_commit": "2026-06-08T16:55:14Z",
             "owner": "davidmoten",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23477885,
             "language": "Java",
             "last_commit": "2018-08-20T12:26:07Z",
             "owner": "ReactiveX",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23477919,
             "language": "Java",
             "last_commit": "2016-12-12T21:21:28Z",
             "owner": "ReactiveX",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23477904,
             "language": "Java",
             "last_commit": "2015-03-20T06:50:18Z",
             "owner": "ReactiveX",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23477916,
             "language": "Java",
             "last_commit": "2016-07-07T16:42:38Z",
             "owner": "ReactiveX",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49574503,
             "language": "Java",
             "last_commit": "2016-03-22T10:11:57Z",
             "owner": "eleventigers",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66866914,
             "language": "Java",
             "last_commit": "2017-02-24T12:44:23Z",
             "owner": "pakoito",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23477895,
             "language": "Java",
             "last_commit": "2015-10-20T22:20:01Z",
             "owner": "ReactiveX",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53002524,
             "language": "Java",
             "last_commit": "2017-01-21T19:12:31Z",
             "owner": "pakoito",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51719162,
             "language": "Java",
             "last_commit": "2017-03-22T00:08:15Z",
             "owner": "pakoito",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47892183,
             "language": "Java",
             "last_commit": "2017-03-22T00:06:58Z",
             "owner": "pakoito",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51712220,
             "language": "Java",
             "last_commit": "2017-03-22T00:09:14Z",
             "owner": "pakoito",
@@ -405,7 +433,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35604995,
             "language": "Java",
             "last_commit": "2018-02-02T14:14:07Z",
             "owner": "novoda",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41429773,
             "language": "Java",
             "last_commit": "2016-04-29T13:59:15Z",
             "owner": "ribot",
@@ -439,7 +469,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22132512,
             "language": "Java",
             "last_commit": "2023-08-08T02:18:57Z",
             "owner": "kaushikgopal",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32989617,
             "language": "Java",
             "last_commit": "2022-03-16T15:52:51Z",
             "owner": "Froussios",
@@ -471,16 +503,12 @@
         }
       ],
       "title": "Guides"
-    },
-    {
-      "description": "To the extent possible under law, Jokubas Dargis has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:33:08.016Z",
+    "last_updated": "2026-08-19T12:52:24.945Z",
     "original_repository": "eleventigers/awesome-rxjava",
+    "original_repository_id": 45109764,
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
     "enhanced_repository": "enhansome/enhansome-rxjava",
     "enhanced_repository_description": null,
