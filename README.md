@@ -2,9 +2,9 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,203 | 🐛 10 | 🌐 Java | 📅 2026-08-19
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,205 | 🐛 10 | 🌐 Java | 📅 2026-08-20
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,800 | 🐛 102 | 📅 2026-08-18 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,211 | 🐛 105 | 📅 2026-08-18 list thing.*
 
 ## Bindings
 
@@ -24,7 +24,7 @@
 
 ## Utilities
 
-* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,454 | 🐛 1 | 🌐 Java | 📅 2026-08-19 - RxJava types that are both an Observable and an Action1.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,453 | 🐛 1 | 🌐 Java | 📅 2026-08-19 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,460 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
 * [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 622 | 🐛 4 | 🌐 Java | 📅 2026-08-19 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 271 | 🐛 14 | 🌐 Java | 📅 2026-06-08 - Utilities for use with RxJava.
@@ -49,7 +49,7 @@
 
 ## Guides
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,493 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,492 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,031 | 🐛 21 | 🌐 Java | 📅 2022-03-16 - An extensive tutorial on RxJava.
 
 ## Articles
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,203 | 🐛 10 | 🌐 Java | 📅 2026-08-19
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,205 | 🐛 10 | 🌐 Java | 📅 2026-08-20
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

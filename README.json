@@ -30,7 +30,7 @@
             "last_commit": "2022-05-11T09:47:47Z",
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10405
+            "stars": 10404
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9570
+            "stars": 9569
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T17:48:42Z",
             "owner": "JakeWharton",
             "repo": "RxRelay",
-            "stars": 2454
+            "stars": 2453
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2023-08-08T02:18:57Z",
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7493
+            "stars": 7492
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:34:48.352Z",
+    "last_updated": "2026-08-20T21:37:07.820Z",
     "original_repository": "eleventigers/awesome-rxjava",
     "original_repository_id": 45109764,
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
