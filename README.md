@@ -2,13 +2,13 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-21
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-24
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,288 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Bindings
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,934 | 🐛 1 | 🌐 Java | 📅 2026-08-05 - Android specific bindings for RxJava.
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,933 | 🐛 1 | 🌐 Java | 📅 2026-08-05 - Android specific bindings for RxJava.
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived - Android M runtime permissions powered by RxJava.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 * [SQLBrite](https://github.com/square/sqlbrite) ⚠️ Archived - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
@@ -24,9 +24,9 @@
 
 ## Utilities
 
-* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,453 | 🐛 1 | 🌐 Java | 📅 2026-08-19 - RxJava types that are both an Observable and an Action1.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,452 | 🐛 1 | 🌐 Java | 📅 2026-08-19 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,460 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
-* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 622 | 🐛 4 | 🌐 Java | 📅 2026-08-19 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
+* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 621 | 🐛 4 | 🌐 Java | 📅 2026-08-19 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 271 | 🐛 14 | 🌐 Java | 📅 2026-06-08 - Utilities for use with RxJava.
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) ⭐ 135 | 🐛 1 | 🌐 Java | 📅 2018-08-20 - Async utilities for RxJava.
 * [RxJavaString](https://github.com/ReactiveX/RxJavaString) ⭐ 129 | 🐛 3 | 🌐 Java | 📅 2016-12-12 -
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-21
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,204 | 🐛 10 | 🌐 Java | 📅 2026-08-24
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
