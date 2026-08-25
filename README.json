@@ -45,7 +45,7 @@
             "last_commit": "2021-11-18T17:51:21Z",
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9569
+            "stars": 9570
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:38:07.054Z",
+    "last_updated": "2026-08-25T06:20:29.134Z",
     "original_repository": "eleventigers/awesome-rxjava",
     "original_repository_id": 45109764,
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
