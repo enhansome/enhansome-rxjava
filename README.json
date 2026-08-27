@@ -117,7 +117,7 @@
             "archived": false,
             "id": 16662619,
             "language": "Java",
-            "last_commit": "2026-05-25T00:49:29Z",
+            "last_commit": "2026-08-26T00:33:45Z",
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
             "stars": 802
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:37:29.940Z",
+    "last_updated": "2026-08-27T00:39:17.965Z",
     "original_repository": "eleventigers/awesome-rxjava",
     "original_repository_id": 45109764,
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
