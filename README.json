@@ -12,7 +12,7 @@
             "archived": false,
             "id": 23095954,
             "language": "Java",
-            "last_commit": "2026-08-05T12:08:09Z",
+            "last_commit": "2026-08-27T11:15:28Z",
             "owner": "ReactiveX",
             "repo": "RxAndroid",
             "stars": 19932
@@ -90,7 +90,7 @@
             "last_commit": "2024-07-18T14:24:40Z",
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2094
+            "stars": 2093
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2023-08-08T02:18:57Z",
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7491
+            "stars": 7490
           }
         },
         {
@@ -506,9 +506,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:39:17.965Z",
-    "original_repository": "eleventigers/awesome-rxjava",
-    "original_repository_id": 45109764,
+    "last_updated": "2026-08-27T12:05:36.277Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 45109764,
+      "language": null,
+      "last_commit": "2019-01-09T23:16:56Z",
+      "owner": "eleventigers",
+      "repo": "awesome-rxjava",
+      "stars": 306
+    },
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
     "enhanced_repository": "enhansome/enhansome-rxjava",
     "enhanced_repository_description": null,
