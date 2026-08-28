@@ -16,7 +16,8 @@
             "owner": "ReactiveX",
             "repo": "RxAndroid",
             "stars": 19932
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tbruyelle",
             "repo": "RxPermissions",
             "stars": 10403
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "JakeWharton",
             "repo": "RxBinding",
             "stars": 9569
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "square",
             "repo": "sqlbrite",
             "stars": 4521
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "pwittchen",
             "repo": "ReactiveNetwork",
             "stars": 2523
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
             "stars": 2093
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "f2prateek",
             "repo": "rx-preferences",
             "stars": 1519
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ZacSweers",
             "repo": "RxPalette",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pwittchen",
             "repo": "ReactiveSensors",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "pakoito",
             "repo": "RxTuples",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "davidmoten",
             "repo": "rxjava-file",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "blipinsk",
             "repo": "RxAnimationBinding",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         }
       ],
       "title": "Bindings"
@@ -217,7 +230,8 @@
             "owner": "JakeWharton",
             "repo": "RxRelay",
             "stars": 2451
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "android10",
             "repo": "frodo",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "davidmoten",
             "repo": "rxjava-extras",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ReactiveX",
             "repo": "RxJavaAsyncUtil",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "ReactiveX",
             "repo": "RxJavaString",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "ReactiveX",
             "repo": "RxJavaJoins",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ReactiveX",
             "repo": "RxJavaMath",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "eleventigers",
             "repo": "rxeither",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "pakoito",
             "repo": "RxComprehensions",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "ReactiveX",
             "repo": "RxJavaComputationExpressions",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "pakoito",
             "repo": "RxFunctions",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "pakoito",
             "repo": "RxCurrying",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "pakoito",
             "repo": "RxActions",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "pakoito",
             "repo": "RxPartialApplication",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         }
       ],
       "title": "Utilities"
@@ -448,7 +476,8 @@
             "owner": "novoda",
             "repo": "rxpresso",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "ribot",
             "repo": "assertj-rx",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         }
       ],
       "title": "Testing"
@@ -484,7 +514,8 @@
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
             "stars": 7490
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         },
         {
           "node_type": "item",
@@ -499,14 +530,15 @@
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
             "stars": 2031
-          }
+          },
+          "first_seen": "2026-08-28T05:18:13.050Z"
         }
       ],
       "title": "Guides"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:36.277Z",
+    "last_updated": "2026-08-28T05:18:13.050Z",
     "original_repository_info": {
       "archived": false,
       "id": 45109764,
