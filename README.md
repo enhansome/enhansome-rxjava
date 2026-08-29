@@ -4,11 +4,11 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,208 | 🐛 11 | 🌐 Java | 📅 2026-08-27
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,151 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Bindings
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,932 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Android specific bindings for RxJava.
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,931 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Android specific bindings for RxJava.
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived - Android M runtime permissions powered by RxJava.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 * [SQLBrite](https://github.com/square/sqlbrite) ⚠️ Archived - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
