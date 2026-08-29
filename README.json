@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava bindings for Android",
+            "homepage": null,
             "id": 23095954,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:15:28Z",
+            "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19932
+            "stars": 19932,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android runtime permissions powered by RxJava2",
+            "homepage": null,
             "id": 43370610,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-11T09:47:47Z",
+            "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10403
+            "stars": 10403,
+            "topics": [
+              "android",
+              "android-permissions",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RxJava binding APIs for Android's UI widgets.",
+            "homepage": null,
             "id": 32775739,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-18T17:51:21Z",
+            "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9569
+            "stars": 9569,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.",
+            "homepage": "https://square.github.io/sqlbrite/3.x/sqlbrite/",
             "id": 31001422,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-17T16:20:56Z",
+            "open_issues": 5,
             "owner": "square",
             "repo": "sqlbrite",
-            "stars": 4521
+            "stars": 4521,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -74,12 +98,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Android library listening network connection state and Internet connectivity with RxJava Observables",
+            "homepage": "http://pwittchen.github.io/ReactiveNetwork/docs/RxJava2.x/",
             "id": 40492118,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-06T11:09:52Z",
+            "open_issues": 38,
             "owner": "pwittchen",
             "repo": "ReactiveNetwork",
-            "stars": 2523
+            "stars": 2523,
+            "topics": [
+              "android",
+              "internet",
+              "internet-connection",
+              "network",
+              "network-connection",
+              "network-monitoring",
+              "rxandroid",
+              "rxandroid2",
+              "rxjava",
+              "rxjava2",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -90,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.",
+            "homepage": null,
             "id": 16315976,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-07-18T14:24:40Z",
+            "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2093
+            "stars": 2093,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive SharedPreferences for Android",
+            "homepage": "http://f2prateek.com/2015/10/05/rx-preferences/",
             "id": 28071993,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-24T00:46:03Z",
+            "open_issues": 19,
             "owner": "f2prateek",
             "repo": "rx-preferences",
-            "stars": 1519
+            "stars": 1519,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -122,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient execution and functional composition of database calls using jdbc and RxJava Observables",
+            "homepage": null,
             "id": 16662619,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:33:45Z",
+            "open_issues": 30,
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
-            "stars": 802
+            "stars": 802,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -138,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava bindings for the Palette library on Android",
+            "homepage": null,
             "id": 44838366,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-11-11T22:05:46Z",
+            "open_issues": 1,
             "owner": "ZacSweers",
             "repo": "RxPalette",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -154,12 +215,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android library monitoring device hardware sensors with RxJava",
+            "homepage": null,
             "id": 41884382,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-04T09:14:31Z",
+            "open_issues": 1,
             "owner": "pwittchen",
             "repo": "ReactiveSensors",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "android",
+              "hardware",
+              "rxandroid",
+              "rxjava",
+              "rxjava2",
+              "rxjava3",
+              "sensors"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -170,12 +244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tuples to use with RxJava [STABLE]",
+            "homepage": null,
             "id": 47582117,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-22T00:07:44Z",
+            "open_issues": 1,
             "owner": "pakoito",
             "repo": "RxTuples",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "android",
+              "functional-programming",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -186,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava observables for files including NIO events",
+            "homepage": null,
             "id": 19633602,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-06T03:19:47Z",
+            "open_issues": 7,
             "owner": "davidmoten",
             "repo": "rxjava-file",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -202,12 +290,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava binding APIs for Android's animations",
+            "homepage": null,
             "id": 50122410,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-02-20T17:32:55Z",
+            "open_issues": 0,
             "owner": "blipinsk",
             "repo": "RxAnimationBinding",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "android",
+              "android-animations",
+              "animation",
+              "reactivex",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         }
@@ -224,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava types that are both an Observable and a Consumer.",
+            "homepage": null,
             "id": 48729466,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T13:08:48Z",
+            "open_issues": 1,
             "owner": "JakeWharton",
             "repo": "RxRelay",
-            "stars": 2451
+            "stars": 2451,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -240,12 +344,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Library for Logging RxJava Observables and Subscribers.",
+            "homepage": null,
             "id": 43031095,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-08-30T23:39:05Z",
+            "open_issues": 16,
             "owner": "android10",
             "repo": "frodo",
-            "stars": 1460
+            "stars": 1460,
+            "topics": [
+              "android",
+              "android-development",
+              "android-library",
+              "debugger",
+              "debugging",
+              "debugging-tool",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -256,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An RxJava transformer which combines replay(1), publish(), and refCount() operators.",
+            "homepage": null,
             "id": 52854530,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T12:28:42Z",
+            "open_issues": 4,
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
-            "stars": 620
+            "stars": 620,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -272,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for use with rxjava ",
+            "homepage": null,
             "id": 27285466,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-08T16:55:14Z",
+            "open_issues": 14,
             "owner": "davidmoten",
             "repo": "rxjava-extras",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -288,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23477885,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-20T12:26:07Z",
+            "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxJavaAsyncUtil",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -304,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23477919,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-12-12T21:21:28Z",
+            "open_issues": 3,
             "owner": "ReactiveX",
             "repo": "RxJavaString",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -320,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23477904,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-03-20T06:50:18Z",
+            "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxJavaJoins",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -336,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Math operators for RxJava.",
+            "homepage": null,
             "id": 23477916,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-07-07T16:42:38Z",
+            "open_issues": 3,
             "owner": "ReactiveX",
             "repo": "RxJavaMath",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -352,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Either type for RxJava",
+            "homepage": null,
             "id": 49574503,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-22T10:11:57Z",
+            "open_issues": 0,
             "owner": "eleventigers",
             "repo": "rxeither",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -368,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reduce boilerplate in RxJava by abstracting chained operators like flatMap, concatMap, switchMap, or compose [STABLE]",
+            "homepage": null,
             "id": 66866914,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-02-24T12:44:23Z",
+            "open_issues": 0,
             "owner": "pakoito",
             "repo": "RxComprehensions",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -384,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23477895,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-10-20T22:20:01Z",
+            "open_issues": 2,
             "owner": "ReactiveX",
             "repo": "RxJavaComputationExpressions",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -400,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Function composition to use with RxJava [STABLE]",
+            "homepage": null,
             "id": 53002524,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-21T19:12:31Z",
+            "open_issues": 0,
             "owner": "pakoito",
             "repo": "RxFunctions",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -416,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple currying for FuncN and ActionN on RxJava [STABLE]",
+            "homepage": null,
             "id": 51719162,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-22T00:08:15Z",
+            "open_issues": 1,
             "owner": "pakoito",
             "repo": "RxCurrying",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -432,12 +604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple ActionN composition to use with RxJava [STABLE]",
+            "homepage": null,
             "id": 47892183,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-22T00:06:58Z",
+            "open_issues": 1,
             "owner": "pakoito",
             "repo": "RxActions",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -448,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple partial application for FuncN and ActionN on RxJava [STABLE]",
+            "homepage": null,
             "id": 51712220,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-22T00:09:14Z",
+            "open_issues": 0,
             "owner": "pakoito",
             "repo": "RxPartialApplication",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         }
@@ -470,12 +652,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy Espresso UI testing for Android applications using RxJava.",
+            "homepage": null,
             "id": 35604995,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-02-02T14:14:07Z",
+            "open_issues": 0,
             "owner": "novoda",
             "repo": "rxpresso",
-            "stars": 357
+            "stars": 357,
+            "topics": [
+              "android",
+              "android-application",
+              "espresso-tests",
+              "novoda",
+              "open-source",
+              "rxjava",
+              "rxpresso"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -486,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED] AssertJ assertions for RxJava Observables",
+            "homepage": null,
             "id": 41429773,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-04-29T13:59:15Z",
+            "open_issues": 2,
             "owner": "ribot",
             "repo": "assertj-rx",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         }
@@ -508,12 +708,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning RxJava for Android by example",
+            "homepage": null,
             "id": 22132512,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-08T02:18:57Z",
+            "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7490
+            "stars": 7490,
+            "topics": [
+              "concurrency",
+              "example",
+              "java",
+              "learning-rxjava",
+              "reactive",
+              "reactive-programming",
+              "rxjava",
+              "sample",
+              "thread"
+            ]
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         },
@@ -524,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensive tutorial on RxJava",
+            "homepage": null,
             "id": 32989617,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-03-16T15:52:51Z",
+            "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2031
+            "stars": 2031,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
         }
@@ -538,15 +758,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:18.731Z",
+    "last_updated": "2026-08-29T04:48:47.916Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful resources for working with RxJava",
+      "homepage": null,
       "id": 45109764,
       "language": null,
+      "license": null,
       "last_commit": "2019-01-09T23:16:56Z",
+      "open_issues": 1,
       "owner": "eleventigers",
       "repo": "awesome-rxjava",
-      "stars": 306
+      "stars": 306,
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "java",
+        "lists",
+        "rxjava"
+      ]
     },
     "original_repository_sha": "d3597845f3acf867537dd64b8ce5bb08bd16fbbd",
     "enhanced_repository": "enhansome/enhansome-rxjava",
