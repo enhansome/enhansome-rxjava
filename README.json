@@ -717,7 +717,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7490,
+            "stars": 7489,
             "topics": [
               "concurrency",
               "example",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:33:01.969Z",
+    "last_updated": "2026-09-01T23:14:43.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
