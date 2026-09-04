@@ -182,7 +182,7 @@
             "open_issues": 30,
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
-            "stars": 802,
+            "stars": 801,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:13:34.929Z",
+    "last_updated": "2026-09-04T22:59:06.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
