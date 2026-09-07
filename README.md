@@ -2,9 +2,9 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 | 🐛 11 | 🌐 Java | 📅 2026-09-05
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,203 | 🐛 11 | 🌐 Java | 📅 2026-09-05
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,659 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,968 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -27,7 +27,7 @@
 * [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,451 | 🐛 1 | 🌐 Java | 📅 2026-08-30 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,460 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
 * [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 620 | 🐛 4 | 🌐 Java | 📅 2026-08-30 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
-* [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 271 | 🐛 14 | 🌐 Java | 📅 2026-09-03 - Utilities for use with RxJava.
+* [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 271 | 🐛 14 | 🌐 Java | 📅 2026-09-07 - Utilities for use with RxJava.
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) ⭐ 135 | 🐛 1 | 🌐 Java | 📅 2018-08-20 - Async utilities for RxJava.
 * [RxJavaString](https://github.com/ReactiveX/RxJavaString) ⭐ 129 | 🐛 3 | 🌐 Java | 📅 2016-12-12 -
   String and Byte operators for RxJava.
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,204 | 🐛 11 | 🌐 Java | 📅 2026-09-05
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,203 | 🐛 11 | 🌐 Java | 📅 2026-09-05
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

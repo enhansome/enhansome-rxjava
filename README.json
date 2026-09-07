@@ -399,7 +399,7 @@
             "id": 27285466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:54:46Z",
+            "last_commit": "2026-09-07T16:52:23Z",
             "open_issues": 14,
             "owner": "davidmoten",
             "repo": "rxjava-extras",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:51:37.807Z",
+    "last_updated": "2026-09-07T23:26:53.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
