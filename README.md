@@ -4,7 +4,7 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,200 | 🐛 11 | 🌐 Java | 📅 2026-09-08
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,265 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,525 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -49,7 +49,7 @@
 
 ## Guides
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,486 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,487 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,031 | 🐛 21 | 🌐 Java | 📅 2022-03-16 - An extensive tutorial on RxJava.
 
 ## Articles
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
