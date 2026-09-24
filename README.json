@@ -40,7 +40,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10394,
+            "stars": 10393,
             "topics": [
               "android",
               "android-permissions",
@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9568,
+            "stars": 9567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:36:31.375Z",
+    "last_updated": "2026-09-24T23:50:29.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
