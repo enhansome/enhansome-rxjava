@@ -15,11 +15,11 @@
             "id": 23095954,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T11:15:28Z",
+            "last_commit": "2026-10-01T11:27:23Z",
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19917,
+            "stars": 19910,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -328,7 +328,7 @@
             "id": 48729466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:43:27Z",
+            "last_commit": "2026-10-01T17:30:56Z",
             "open_issues": 1,
             "owner": "JakeWharton",
             "repo": "RxRelay",
@@ -378,7 +378,7 @@
             "id": 52854530,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T00:03:44Z",
+            "last_commit": "2026-10-01T16:31:19Z",
             "open_issues": 4,
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:29:56.010Z",
+    "last_updated": "2026-10-02T00:40:57.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
