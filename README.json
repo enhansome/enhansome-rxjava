@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19909,
+            "stars": 19908,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:43:38.931Z",
+    "last_updated": "2026-10-06T10:34:14.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
