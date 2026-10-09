@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19908,
+            "stars": 19907,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -107,7 +107,7 @@
             "open_issues": 38,
             "owner": "pwittchen",
             "repo": "ReactiveNetwork",
-            "stars": 2523,
+            "stars": 2524,
             "topics": [
               "android",
               "internet",
@@ -140,7 +140,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2093,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -161,7 +161,7 @@
             "open_issues": 19,
             "owner": "f2prateek",
             "repo": "rx-preferences",
-            "stars": 1519,
+            "stars": 1520,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -353,7 +353,7 @@
             "open_issues": 16,
             "owner": "android10",
             "repo": "frodo",
-            "stars": 1459,
+            "stars": 1460,
             "topics": [
               "android",
               "android-development",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:55:32.718Z",
+    "last_updated": "2026-10-09T01:09:44.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
