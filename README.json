@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9568,
+            "stars": 9567,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -140,7 +140,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2094,
+            "stars": 2093,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:31:49.640Z",
+    "last_updated": "2026-10-14T00:15:05.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
