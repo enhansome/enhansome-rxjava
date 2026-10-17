@@ -332,7 +332,7 @@
             "open_issues": 1,
             "owner": "JakeWharton",
             "repo": "RxRelay",
-            "stars": 2454,
+            "stars": 2455,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -748,7 +748,7 @@
             "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2030,
+            "stars": 2031,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:28:25.743Z",
+    "last_updated": "2026-10-17T23:01:29.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
