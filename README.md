@@ -4,15 +4,15 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,177 | 🐛 11 | 🌐 Java | 📅 2026-10-19
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,930 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,377 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,900 | 🐛 1 | 🌐 Java | 📅 2026-10-01 - Android specific bindings for RxJava.
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,899 | 🐛 1 | 🌐 Java | 📅 2026-10-01 - Android specific bindings for RxJava.
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived - Android M runtime permissions powered by RxJava.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 * [SQLBrite](https://github.com/square/sqlbrite) ⚠️ Archived - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
-* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) ⭐ 2,524 | 🐛 38 | 🌐 Java | 📅 2025-01-06 - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
+* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) ⭐ 2,523 | 🐛 38 | 🌐 Java | 📅 2025-01-06 - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,520 | 🐛 19 | 🌐 Java | 📅 2023-05-24 - Reactive `SharedPreferences` for Android.
 * [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) ⭐ 801 | 🐛 31 | 🌐 Java | 📅 2026-09-30 - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
@@ -24,9 +24,9 @@
 
 ## Utilities
 
-* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,455 | 🐛 1 | 🌐 Java | 📅 2026-10-14 - RxJava types that are both an Observable and an Action1.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,455 | 🐛 1 | 🌐 Java | 📅 2026-10-21 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,459 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
-* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 620 | 🐛 4 | 🌐 Java | 📅 2026-10-15 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
+* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 620 | 🐛 4 | 🌐 Java | 📅 2026-10-21 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 271 | 🐛 14 | 🌐 Java | 📅 2026-09-25 - Utilities for use with RxJava.
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) ⭐ 135 | 🐛 1 | 🌐 Java | 📅 2018-08-20 - Async utilities for RxJava.
 * [RxJavaString](https://github.com/ReactiveX/RxJavaString) ⭐ 129 | 🐛 3 | 🌐 Java | 📅 2016-12-12 -
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
