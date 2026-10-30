@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19899,
+            "stars": 19898,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -399,7 +399,7 @@
             "id": 27285466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:52:27Z",
+            "last_commit": "2026-10-29T16:55:11Z",
             "open_issues": 14,
             "owner": "davidmoten",
             "repo": "rxjava-extras",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:47:40.473Z",
+    "last_updated": "2026-10-30T00:48:31.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
