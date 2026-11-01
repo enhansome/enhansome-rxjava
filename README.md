@@ -4,7 +4,7 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,156 | 🐛 12 | 🌐 Java | 📅 2026-10-26
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,517 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,029 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -14,7 +14,7 @@
 * [SQLBrite](https://github.com/square/sqlbrite) ⚠️ Archived - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
 * [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) ⭐ 2,523 | 🐛 38 | 🌐 Java | 📅 2025-01-06 - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
-* [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,520 | 🐛 19 | 🌐 Java | 📅 2023-05-24 - Reactive `SharedPreferences` for Android.
+* [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,519 | 🐛 19 | 🌐 Java | 📅 2023-05-24 - Reactive `SharedPreferences` for Android.
 * [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) ⭐ 801 | 🐛 31 | 🌐 Java | 📅 2026-09-30 - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
 * [RxPalette](https://github.com/hzsweers/RxPalette) ⭐ 197 | 🐛 1 | 🌐 Java | 📅 2016-11-11 - RxJava bindings for the Palette library on Android.
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) ⭐ 165 | 🐛 1 | 🌐 Java | 📅 2023-03-04 - Android library monitoring hardware sensors with RxJava Observables.
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
