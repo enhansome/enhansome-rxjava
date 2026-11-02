@@ -179,7 +179,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T00:32:34Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
             "stars": 801,
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:01:53.553Z",
+    "last_updated": "2026-11-02T00:34:36.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
