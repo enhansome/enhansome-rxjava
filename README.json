@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19897,
+            "stars": 19898,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -40,7 +40,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10387,
+            "stars": 10386,
             "topics": [
               "android",
               "android-permissions",
@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9564,
+            "stars": 9563,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -107,7 +107,7 @@
             "open_issues": 38,
             "owner": "pwittchen",
             "repo": "ReactiveNetwork",
-            "stars": 2523,
+            "stars": 2522,
             "topics": [
               "android",
               "internet",
@@ -140,7 +140,7 @@
             "open_issues": 33,
             "owner": "mcharmas",
             "repo": "Android-ReactiveLocation",
-            "stars": 2094,
+            "stars": 2093,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -748,7 +748,7 @@
             "open_issues": 21,
             "owner": "Froussios",
             "repo": "Intro-To-RxJava",
-            "stars": 2032,
+            "stars": 2031,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:52:01.862Z",
+    "last_updated": "2026-11-04T01:13:52.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
