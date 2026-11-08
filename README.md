@@ -4,7 +4,7 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,154 | 🐛 12 | 🌐 Java | 📅 2026-11-06
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,522 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,205 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
