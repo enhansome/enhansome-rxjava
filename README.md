@@ -2,9 +2,9 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,154 | 🐛 13 | 🌐 Java | 📅 2026-11-09
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,154 | 🐛 13 | 🌐 Java | 📅 2026-11-10
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,336 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,889 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -15,7 +15,7 @@
 * [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) ⭐ 2,522 | 🐛 38 | 🌐 Java | 📅 2025-01-06 - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) ⭐ 2,093 | 🐛 33 | 🌐 Java | 📅 2024-07-18 - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) ⭐ 1,519 | 🐛 19 | 🌐 Java | 📅 2023-05-24 - Reactive `SharedPreferences` for Android.
-* [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) ⭐ 801 | 🐛 32 | 🌐 Java | 📅 2026-09-30 - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
+* [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) ⭐ 801 | 🐛 32 | 🌐 Java | 📅 2026-11-11 - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
 * [RxPalette](https://github.com/hzsweers/RxPalette) ⭐ 197 | 🐛 1 | 🌐 Java | 📅 2016-11-11 - RxJava bindings for the Palette library on Android.
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) ⭐ 165 | 🐛 1 | 🌐 Java | 📅 2023-03-04 - Android library monitoring hardware sensors with RxJava Observables.
 * [RxTuples](https://github.com/pakoito/RxTuples) ⭐ 114 | 🐛 1 | 🌐 Java | 📅 2017-03-22 - Simple tuples to use with RxJava.
@@ -49,7 +49,7 @@
 
 ## Guides
 
-* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,487 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) ⭐ 7,488 | 🐛 10 | 🌐 Java | 📅 2023-08-08 - Learning RxJava for Android by example.
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) ⭐ 2,030 | 🐛 21 | 🌐 Java | 📅 2022-03-16 - An extensive tutorial on RxJava.
 
 ## Articles
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,154 | 🐛 13 | 🌐 Java | 📅 2026-11-09
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,154 | 🐛 13 | 🌐 Java | 📅 2026-11-10
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

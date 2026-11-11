@@ -40,7 +40,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10387,
+            "stars": 10388,
             "topics": [
               "android",
               "android-permissions",
@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9561,
+            "stars": 9562,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -178,7 +178,7 @@
             "id": 16662619,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T00:32:34Z",
+            "last_commit": "2026-11-11T00:33:43Z",
             "open_issues": 32,
             "owner": "davidmoten",
             "repo": "rxjava-jdbc",
@@ -717,7 +717,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7487,
+            "stars": 7488,
             "topics": [
               "concurrency",
               "example",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:25:56.052Z",
+    "last_updated": "2026-11-11T01:11:42.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
@@ -770,7 +770,7 @@
       "open_issues": 1,
       "owner": "eleventigers",
       "repo": "awesome-rxjava",
-      "stars": 306,
+      "stars": 307,
       "topics": [
         "android",
         "awesome",
