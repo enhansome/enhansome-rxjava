@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ReactiveX",
             "repo": "RxAndroid",
-            "stars": 19894,
+            "stars": 19893,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -40,7 +40,7 @@
             "open_issues": 100,
             "owner": "tbruyelle",
             "repo": "RxPermissions",
-            "stars": 10387,
+            "stars": 10386,
             "topics": [
               "android",
               "android-permissions",
@@ -65,7 +65,7 @@
             "open_issues": 42,
             "owner": "JakeWharton",
             "repo": "RxBinding",
-            "stars": 9562,
+            "stars": 9561,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -328,7 +328,7 @@
             "id": 48729466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T00:54:05Z",
+            "last_commit": "2026-11-13T22:49:43Z",
             "open_issues": 1,
             "owner": "JakeWharton",
             "repo": "RxRelay",
@@ -378,11 +378,11 @@
             "id": 52854530,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T03:20:55Z",
+            "last_commit": "2026-11-13T23:32:52Z",
             "open_issues": 4,
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
-            "stars": 618,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -399,11 +399,11 @@
             "id": 27285466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:55:11Z",
+            "last_commit": "2026-11-13T16:55:26Z",
             "open_issues": 14,
             "owner": "davidmoten",
             "repo": "rxjava-extras",
-            "stars": 271,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T05:18:13.050Z"
@@ -717,7 +717,7 @@
             "open_issues": 10,
             "owner": "kaushikgopal",
             "repo": "RxJava-Android-Samples",
-            "stars": 7489,
+            "stars": 7488,
             "topics": [
               "concurrency",
               "example",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:45:53.983Z",
+    "last_updated": "2026-11-14T01:24:00.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
