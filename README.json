@@ -661,7 +661,7 @@
             "open_issues": 0,
             "owner": "novoda",
             "repo": "rxpresso",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "android",
               "android-application",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:24:00.479Z",
+    "last_updated": "2026-11-15T00:58:14.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",
