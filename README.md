@@ -2,13 +2,13 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,151 | 🐛 14 | 🌐 Java | 📅 2026-11-10
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,149 | 🐛 12 | 🌐 Java | 📅 2026-11-16
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,515 | 🐛 104 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,065 | 🐛 104 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,893 | 🐛 1 | 🌐 Java | 📅 2026-11-02 - Android specific bindings for RxJava.
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,892 | 🐛 1 | 🌐 Java | 📅 2026-11-02 - Android specific bindings for RxJava.
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived - Android M runtime permissions powered by RxJava.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 * [SQLBrite](https://github.com/square/sqlbrite) ⚠️ Archived - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,151 | 🐛 14 | 🌐 Java | 📅 2026-11-10
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,149 | 🐛 12 | 🌐 Java | 📅 2026-11-16
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
