@@ -2,9 +2,9 @@
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,146 | 🐛 11 | 🌐 Java | 📅 2026-11-20
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,147 | 🐛 11 | 🌐 Java | 📅 2026-11-20
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,539 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,127 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -24,7 +24,7 @@
 
 ## Utilities
 
-* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,452 | 🐛 1 | 🌐 Java | 📅 2026-11-21 - RxJava types that are both an Observable and an Action1.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,453 | 🐛 1 | 🌐 Java | 📅 2026-11-21 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,459 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
 * [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 617 | 🐛 4 | 🌐 Java | 📅 2026-11-21 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 270 | 🐛 14 | 🌐 Java | 📅 2026-11-13 - Utilities for use with RxJava.
@@ -68,7 +68,7 @@
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,146 | 🐛 11 | 🌐 Java | 📅 2026-11-20
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) ⭐ 48,147 | 🐛 11 | 🌐 Java | 📅 2026-11-20
 
 ## License
 
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
