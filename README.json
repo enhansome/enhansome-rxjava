@@ -328,7 +328,7 @@
             "id": 48729466,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T12:37:19Z",
+            "last_commit": "2026-11-27T04:49:42Z",
             "open_issues": 1,
             "owner": "JakeWharton",
             "repo": "RxRelay",
@@ -378,7 +378,7 @@
             "id": 52854530,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T12:52:11Z",
+            "last_commit": "2026-11-27T04:50:56Z",
             "open_issues": 4,
             "owner": "JakeWharton",
             "repo": "RxReplayingShare",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:35:17.114Z",
+    "last_updated": "2026-11-28T03:13:12.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for working with RxJava",

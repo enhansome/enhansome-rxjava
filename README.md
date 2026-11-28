@@ -4,7 +4,7 @@
 
 > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,146 | 🐛 11 | 🌐 Java | 📅 2026-11-25
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,507 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,998 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Bindings
 
@@ -24,9 +24,9 @@
 
 ## Utilities
 
-* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,452 | 🐛 1 | 🌐 Java | 📅 2026-11-21 - RxJava types that are both an Observable and an Action1.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) ⭐ 2,452 | 🐛 1 | 🌐 Java | 📅 2026-11-27 - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) ⭐ 1,459 | 🐛 16 | 🌐 Java | 📅 2018-08-30 - Android Library for Logging RxJava Observables and Subscribers.
-* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 617 | 🐛 4 | 🌐 Java | 📅 2026-11-21 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
+* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) ⭐ 617 | 🐛 4 | 🌐 Java | 📅 2026-11-27 - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) ⭐ 270 | 🐛 14 | 🌐 Java | 📅 2026-11-13 - Utilities for use with RxJava.
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) ⭐ 135 | 🐛 1 | 🌐 Java | 📅 2018-08-20 - Async utilities for RxJava.
 * [RxJavaString](https://github.com/ReactiveX/RxJavaString) ⭐ 129 | 🐛 3 | 🌐 Java | 📅 2016-12-12 -
@@ -78,4 +78,4 @@ To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
